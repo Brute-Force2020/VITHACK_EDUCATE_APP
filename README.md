@@ -56,6 +56,6 @@ TECH STACK:
     • React Native
 
 
-Solarized dark             |  Solarized Ocean          |Solarized dark             |
-:-------------------------:|:-------------------------:|:-------------------------:
-![1](https://...Dark.png)  |  ![2](https://...Ocean.png)
+OTP             |  Dashboard         |Search             |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/1.jpeg)  |  ![2](hhttps://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/2.jpeg)  |  ![2](hhttps://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/3.jpeg)  |
