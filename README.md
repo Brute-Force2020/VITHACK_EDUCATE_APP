@@ -56,6 +56,41 @@ TECH STACK:
     • React Native
 
 
-OTP             |  Dashboard         |Search             |
+OTP & phone number         |  Dashboard         |Search             |
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/1.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/2.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/3.jpeg)  |
+
+
+My Dashboard             |  My Dashboard         |Classes N Video Call             |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/4.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/5.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/6.jpeg)  |
+
+
+Appointment Section           |  Apply for appointments         |Chat Room             |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/7.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/8.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/9.jpeg)  |
+
+
+Assignment Section           |  Download Questions, dues         |Upload section             |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/10.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/11.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/12.jpeg)  |
+
+
+Courses Enrolled & Completion status          |  DWeb-Camera Proctored Tests         | Answering Space and live Tests            |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/13.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/14.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/15.jpeg)  |
+
+
+automatic blocking for using abusive language           |  Manual Unblock Feature         |Courses and Interests             |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/16.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/17.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/18.jpeg)  |
+
+
+Pending and approved appointments         |  Accept Appointment         |assigned Questions             |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/19.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/20.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/21.jpeg)  |
+
+
+Add new assignment feature           |  add course         |Phone number and OTP authentication             |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![1](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/22.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/24.jpeg)  |  ![2](https://github.com/Brute-Force2020/VITHACK_EDUCATE_APP/blob/main/screenshots/1.jpeg)  |
