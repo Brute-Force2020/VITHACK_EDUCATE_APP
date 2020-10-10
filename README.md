@@ -56,4 +56,6 @@ TECH STACK:
     • React Native
 
 
-
+Solarized dark             |  Solarized Ocean          |Solarized dark             |
+:-------------------------:|:-------------------------:|:-------------------------:
+![1](https://...Dark.png)  |  ![2](https://...Ocean.png)
